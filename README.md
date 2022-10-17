@@ -5,6 +5,8 @@
 
 #  配置接口设定 --> clan://localhost/TVBox/qiaoj.json
 
+# fonmi接口--->file://TVBox/qiaoj.json
+
 # "spider":"clan://TVBox/jar/07062.jar"(视情况自定义文件夹)
 
 - [使用方法](./usage.md)
