@@ -3,7 +3,7 @@
 
 # TVBox
 
-#  配置接口设定 --> clan://localhost/TVBox/qiaoj.json
+#  配置接口设定 俊佬、T版等--> clan://localhost/TVBox/qiaoj.json
 
 # fonmi接口--->file://TVBox/qiaoj.json
 
