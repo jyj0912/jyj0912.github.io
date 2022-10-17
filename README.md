@@ -2,9 +2,11 @@
 
 
 # TVBox
-// 配置接口设定 --> clan://localhost/TVBox/qiaoj.json
-// 
-//"spider":"clan://TVBox/jar/07062.jar"(视情况自定义文件夹)
+
+# // 配置接口设定 --> clan://localhost/TVBox/qiaoj.json
+
+# //"spider":"clan://TVBox/jar/07062.jar"(视情况自定义文件夹)
+
 - [使用方法](./usage.md)
 
 ### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
