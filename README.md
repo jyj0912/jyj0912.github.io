@@ -3,11 +3,11 @@
 
 # TVBox
 
-#  配置接口设定 俊佬、T版等--> clan://localhost/TVBox/qiaoj.json
+#  配置接口设定 俊佬、T版等--> clan://localhost/文件路径/XX.json
 
-# fonmi接口--->file://TVBox/qiaoj.json
+# fonmi接口--->file://XX.json
 
-# "spider":"clan://TVBox/jar/07062.jar"(视情况自定义文件夹)
+# "spider":"clan://文件路径/XX.jar"(视情况自定义文件夹)
 
 - [使用方法](./usage.md)
 
