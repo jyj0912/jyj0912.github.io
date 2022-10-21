@@ -9,6 +9,20 @@
 
 # "spider":"clan://文件路径/XX.jar"(视情况自定义文件夹)
 
+# takagen99 & q215613905 TVBox的本地设定(同原猫影视设定)
+1.设定>配置用路径 需多加localhost
+clan://localhost/TVBox/pluto.json
+2.json的api或ext路径设定 则不用另外再加localhost
+"api":"clan://TVBox/libs/drpy.js"
+clan://TVBox/js/真不卡.js
+
+# pluto的本地设定
+file:///storage/emulated/0/TVBox/pluto.json
+
+# FM影视的本地设定 (通用 二择一)
+clan://TVBox/pluto.json
+file://TVBox/pluto.json
+
 - [使用方法](./usage.md)
 
 ### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
