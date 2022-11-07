@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "🕍xc线路"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+      "name": "✨fj线路2"
+    }
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
+      "name": "🕍道长线路"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
+      "name": "🕍xymc线路"
+    },
+     {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json",
+      "name": "🕍eib3线路"
+    },
+  ]
+}
