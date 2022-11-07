@@ -1,0 +1,9 @@
+{
+  "storeHouse":[{
+    "sourceName":"1号仓库",
+    "sourceUrl":"https://raw.githubusercontent.com/jyj0912/jyj0912.github.io/main/%E4%BB%93%E5%BA%931.json"
+  }, {
+    "sourceName":"2号仓库",
+    "sourceUrl":"https://raw.githubusercontent.com/jyj0912/jyj0912.github.io/main/%E4%BB%93%E5%BA%932.json"
+  }]
+}
