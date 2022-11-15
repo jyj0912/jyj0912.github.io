@@ -1,0 +1,89 @@
+//多线路，适用多仓版本
+{
+  "urls": [
+    {
+      "url": "http://xn--sss604efuw.ml/tvb/x",
+      "name": "大娃"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "xc"
+    },
+    {
+      "url": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/tang.bmp",
+      "name": "Tangsan"
+    },
+    {
+      "url": " http://饭太硬.ml/tvb/x",
+      "name": "饭太硬"
+    },
+    {
+      "url": " https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json",
+      "name": "py"
+    },
+    {
+      "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/i",
+      "name": "胖虎"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+      "name": "fj"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
+      "name": "道长"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
+      "name": "xymc"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json",
+      "name": "eib3"
+    },
+    {
+      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "name": "元兴"
+    },
+    {
+      "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+      "name": "甜蜜"
+    },
+    {
+      "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+      "name": "老刘备"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+      "name": "多源自动拉取"
+    },
+        {
+      "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
+      "name": "fongmi"
+    },
+    {
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "ray"
+    },
+    {
+      "url": "https://agit.ai/jyj/ygbh/raw/branch/master/tang.json",
+      "name": "月光宝盒"
+    },
+    {
+      "url": "https://agit.ai/jyj/ygbh/raw/branch/master/PRO.json",
+      "name": "月光宝盒pro"
+    },
+    {
+      "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
+      "name": "kvymin"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox",
+      "name": "2hacc"
+    },
+    {
+      "url": "http://tvbox.lengniuge.eu.org/ts",
+      "name": "ts"
+    }
+  ]
+}
